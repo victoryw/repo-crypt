@@ -1,0 +1,10 @@
+%echo Generating a basic OpenPGP key
+Key-Type: default
+Subkey-Type: default
+Name-Real: victoryw
+Name-Email: tianya_wy@hotmail.com
+Expire-Date: 0
+Passphrase: r0ys1ngh4m
+# Do a commit here, so that we can later print "done" :-)
+%commit
+%echo done
