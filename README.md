@@ -22,4 +22,5 @@ but i don't know how to use special key to encrypt each file.
 the file will be automatically encrypted after git push to repo.
 
 ## blackbox
-## HashiCorp Vault
+### about GPG
+[GPG](https://help.github.com/articles/signing-commits-with-gpg/)
